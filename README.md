@@ -1,1 +1,1 @@
-# projects
+Simple Calculator App
